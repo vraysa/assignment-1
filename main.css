@@ -1,0 +1,64 @@
+html {
+    background: grey;
+        color: black;
+    font-family: Helvetica, Sans-Serif;   
+        }
+header {
+    background: rgb(211,211,211);
+    color: black;
+       font-family: Helvetica, Sans-Serif; 
+    padding: 15px;
+        margin-left: 10px;
+    margin-right: 10px;
+        }
+.Name {
+     padding: 20px;
+  text-align: center;
+  background: light grey;
+    position: relative;
+      }
+
+.column {   
+  margin-left: auto;
+    margin-right: auto;
+    width: 60em;
+    background: white;
+border-style: solid;
+    }
+.carda {
+background-color: white;
+  padding: 20px;
+  margin-top: 20px;
+}
+
+.row:after {
+  content: "";
+  display: table;
+  clear: both;
+}
+
+section {
+    padding: 25px;
+    background-color: lightgrey;
+      margin-top: 30px;
+    margin-left: 10px;
+    margin-right: 10px;
+    }
+em {
+font-weight: bold;
+        }
+img {
+    padding: 10px;
+}
+div.photo {
+    float: left;
+    position: relative;
+  top:-25px;
+}
+h1 {
+    text-align: center;
+}
+
+
+
+
